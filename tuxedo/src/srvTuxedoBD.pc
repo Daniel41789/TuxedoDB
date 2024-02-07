@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+#include <atmi.h>
+#include <userlog.h>
+#include <fml32.h>
+#include <tx.h>
+#include "biblioBD.fml.h"
+#include <sqlca.h>
+#include <sqlda.h>
+#include <oraca.h>

@@ -1,0 +1,61 @@
+
+Pro*C/C++: Release 12.2.0.1.0 - Production on Mon Feb 5 20:18:52 2024
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Error at line 33, column 11 in file /usr/include/stdio.h
+    33  # include <stddef.h>
+    33  ..........1
+    33  PCC-S-02015, unable to open include file
+Error at line 15, column 10 in file /usr/include/_G_config.h
+    15  #include <stddef.h>
+    15  .........1
+    15  PCC-S-02015, unable to open include file
+Error at line 51, column 11 in file /usr/include/wchar.h
+    51  # include <stddef.h>
+    51  ..........1
+    51  PCC-S-02015, unable to open include file
+Error at line 50, column 10 in file /usr/include/libio.h
+    50  #include <stdarg.h>
+    50  .........1
+    50  PCC-S-02015, unable to open include file
+Error at line 83, column 12 in file /usr/include/stdio.h
+    83  #  include <stdarg.h>
+    83  ...........1
+    83  PCC-S-02015, unable to open include file
+Error at line 32, column 10 in file /usr/include/stdlib.h
+    32  #include <stddef.h>
+    32  .........1
+    32  PCC-S-02015, unable to open include file
+Error at line 146, column 10 in file /usr/include/sys/types.h
+   146  #include <stddef.h>
+   146  .........1
+   146  PCC-S-02015, unable to open include file
+Error at line 24, column 10 in file /usr/include/alloca.h
+    24  #include <stddef.h>
+    24  .........1
+    24  PCC-S-02015, unable to open include file
+Error at line 32, column 10 in file /usr/include/string.h
+    32  #include <stddef.h>
+    32  .........1
+    32  PCC-S-02015, unable to open include file
+Error at line 5, column 10 in file srvTuxedoBD.pc
+     5  #include <atmi.h>
+     5  .........1
+     5  PCC-S-02015, unable to open include file
+Error at line 6, column 10 in file srvTuxedoBD.pc
+     6  #include <userlog.h>
+     6  .........1
+     6  PCC-S-02015, unable to open include file
+Error at line 7, column 10 in file srvTuxedoBD.pc
+     7  #include <fml32.h>
+     7  .........1
+     7  PCC-S-02015, unable to open include file
+Error at line 8, column 10 in file srvTuxedoBD.pc
+     8  #include <tx.h>
+     8  .........1
+     8  PCC-S-02015, unable to open include file
+Error at line 9, column 10 in file srvTuxedoBD.pc
+     9  #include "biblioBD.fml.h"
+     9  .........1
+     9  PCC-S-02015, unable to open include file
